@@ -5,7 +5,7 @@
   "scripts": [
     {
       "where": "github",
-      "path": "new.java"
+      "path": "test1.json"
     }
   ]
 }
